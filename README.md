@@ -1,2 +1,0 @@
-# EstateBridge-AI-based-CRM-for-Estate-Agency-Software
-EstateBridge is a SaaS property CRM and listing management platform built for UK estate agents, letting agencies, and US real estate brokerages. It brings portal syndication to Rightmove, Zoopla, OnTheMarket, Zillow, and Trulia, a branded agency website with live property search, AI-assisted listing copy, an after-hours AI chatbot, landlord portal, lead pipeline, team roles, and media management into one login. Built by InnovTeams Technologies LLC. Free plan available at estatebridge.co with no credit card required.
